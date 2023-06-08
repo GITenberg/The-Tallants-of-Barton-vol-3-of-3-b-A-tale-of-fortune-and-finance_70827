@@ -1,0 +1,35 @@
+_repo: The-Tallants-of-Barton-vol-3-of-3-b-A-tale-of-fortune-and-finance_70827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hatton, Joseph
+    birthdate: 1841
+    deathdate: 1907
+    gutenberg_agent_id: '46810'
+    url: http://www.gutenberg.org/2009/agents/46810
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Hatton
+description: ''
+gutenberg_issued: '2023-05-21'
+identifiers:
+  gutenberg: '70827'
+language: en
+pgterms:marc904:
+- https://archive.org/details/tallantsofbarton03hatt/page/n7/mode/2up
+- https://archive.org/details/tallantsofbarton02hatt/page/n7/mode/2up
+- https://archive.org/details/tallantsofbarton01hatt/page/n7/mode/2up
+pgterms:marc905: 20210506101916hatton
+pgterms:marc906: '1867'
+pgterms:marc907: GB
+production_note: Sonya Schermann, Debrah Thompson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bTesley Brothers, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'The Tallants of Barton, vol. 3 (of 3) : $b A tale of fortune and finance'
+url: http://www.gutenberg.org/ebooks/70827
